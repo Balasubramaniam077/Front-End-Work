@@ -12,3 +12,7 @@
 # Clock
 
 ![clock](https://user-images.githubusercontent.com/67773609/203709493-544cfc95-f6fd-4449-8d3b-5431fc93a06c.JPG)
+
+# Calculator 
+
+![ffv](https://user-images.githubusercontent.com/67773609/208690937-b58acd84-4366-4280-bfeb-8c39c56518b9.JPG)
